@@ -1,0 +1,7 @@
+.container{
+    /* Frosted Glass with Shadow Background */
+    background: rgba(211, 211, 211, 0.367);
+    backdrop-filter: saturate(180%) blur(10px);
+    box-shadow: 0px 10px 15px 10px rgb(0 0 0 / 15%);
+
+}
